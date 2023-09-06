@@ -4,7 +4,8 @@ Test Cases
 from main import func
 
 
-def test_answer():
+def test_read():
     """test function"""
-    assert func(3) == 4
-    assert func(2) == 3
+    print(
+        func("https://github.com/allisonhorst/palmerpenguins/blob/main/data/penguins.R")
+    )
