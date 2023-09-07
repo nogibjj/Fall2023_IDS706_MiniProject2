@@ -10,3 +10,6 @@ def test_read():
     assert df1["SEQPLT16"]["mean"] == 4855.0
     assert df1["SEQPLT16"]["count"] == 9709.0
     assert df1["CAPFAC"]["count"] == 8038.0
+
+if __name__ == "__main__":
+    test_read()
