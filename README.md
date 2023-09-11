@@ -21,7 +21,7 @@ Here is the screenshot of summary statistics table based on the csv file read in
 <img width="344" alt="Screenshot 2023-09-10 at 10 02 03 PM" src="https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/assets/143651921/a07ab619-e63b-457e-88bb-515d03ce5949">
 
 Here is the visualization between two variables in the dataframe, which can also be downloaded from html file or click on plant_capacity_factor.png.  
-<img width="606" alt="Screenshot 2023-09-11 at 2 14 07 PM" src="https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/assets/143651921/858fd105-417e-49c7-8d71-a9b97ff7a328">
+<img width="606" alt="Screenshot 2023-09-11 at 2 14 07 PM" src="https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/assets/143651921/858fd105-417e-49c7-8d71-a9b97ff7a328">  
 As we can see from the plot, when plant capacity factor increases, plant annual net generation increases.
 
 [![CI](https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/actions/workflows/CI.yml/badge.svg)](https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/actions/workflows/CI.yml)
