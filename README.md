@@ -8,6 +8,10 @@ Based on the template, I made the following changes:
 2. Modified the function in main.py to read the CSV file, store and return the summary statistics table, create a plot.
 3. Added test cases in test_main.py
 
+### Dataset
+The dataset is loaded in by url.  Here is the url: https://www.dropbox.com/s/x2awp0e9znsyub7/egrid2016.csv?dl=1. The file is a comma-separated value spreadsheet (CSV) called egrid2016.csv. This dataset is the Environmental Protection Agency's (EPA) Emissions & Generation Resource Integrated Database (eGRID) containing information about all power plants in the United States, the amount of genereration they produce, what fuel they use, the location of the plant, and many more quantities.  
+<img width="430" alt="Screenshot 2023-09-11 at 3 13 34 PM" src="https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/assets/143651921/c1a45b64-1c5f-424f-91ee-f302fcc5a5cb">
+
 ### Check format and test errors:
 In codespace, I run command make test, make format, and make lint. The commands run smoothly.
 <img width="892" alt="Screenshot 2023-09-06 at 11 21 09 PM" src="https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/assets/143651921/700df81e-94c5-4d79-85f6-89e9b811bb54">
