@@ -12,6 +12,6 @@ def describe_file(input1):
 def plot_file(input1):
     """define a function plot relationship in a dataframe"""
     df1 = pd.read_csv(input1)
-    df1.plot(x='CAPFAC', y='PLNGENAN')
+    df1.plot(x='CAPFAC', y='PLNGENAN', kind=‘scatter’)
     # Save the plot as a figure
     plt.savefig('plant_capacity_factor.png')
