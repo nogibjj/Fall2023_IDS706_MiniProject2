@@ -16,4 +16,7 @@ In codespace, I run command make test, make format, and make lint. The commands 
 Here is the screenshot of summary statistics table based on the csv file read in, which can also be downloaded from the html file in the repo.  
 <img width="344" alt="Screenshot 2023-09-10 at 10 02 03 PM" src="https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/assets/143651921/a07ab619-e63b-457e-88bb-515d03ce5949">
 
+Here is the visualization between two variables in the dataframe, which can also be downloaded from html file or click on plant_capacity_factor.png.  
+<img width="578" alt="Screenshot 2023-09-10 at 10 05 06 PM" src="https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/assets/143651921/dc13f226-3e71-4420-b2e3-9350a52b7db7">
+
 [![CI](https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/actions/workflows/CI.yml/badge.svg)](https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/actions/workflows/CI.yml)
