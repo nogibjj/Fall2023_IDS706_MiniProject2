@@ -17,6 +17,7 @@ Here is the screenshot of summary statistics table based on the csv file read in
 <img width="344" alt="Screenshot 2023-09-10 at 10 02 03 PM" src="https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/assets/143651921/a07ab619-e63b-457e-88bb-515d03ce5949">
 
 Here is the visualization between two variables in the dataframe, which can also be downloaded from html file or click on plant_capacity_factor.png.  
-<img width="578" alt="Screenshot 2023-09-10 at 10 05 06 PM" src="https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/assets/143651921/dc13f226-3e71-4420-b2e3-9350a52b7db7">
+<img width="606" alt="Screenshot 2023-09-11 at 2 14 07 PM" src="https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/assets/143651921/858fd105-417e-49c7-8d71-a9b97ff7a328">
+
 
 [![CI](https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/actions/workflows/CI.yml/badge.svg)](https://github.com/nogibjj/Fall2023_IDS706_MiniProject2_JiayiZhou/actions/workflows/CI.yml)
